@@ -1,0 +1,19 @@
+﻿{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:37646",
+      "sslPort": 44356
+    }
+  },
+  "profiles": {
+    "GagBot": {
+      "commandName": "Project",
+      "applicationUrl": "https://localhost:7170;http://localhost:5170",
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      }
+    }
+  }
+}
